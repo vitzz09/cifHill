@@ -2,7 +2,7 @@
 
 ## 🧑‍🎓 Integrantes
 
-* Integrante 1
+* Victor Hugo A Alves
 * Integrante 2
 * Integrante 3
 
